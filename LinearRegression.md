@@ -11,11 +11,13 @@ use a scatter plot to imply the strength of the relationship between the variabl
 any increasing or decreasing pattern. For such cases, the LR is not beneficial to the given data.
 
 <b> Linear Regression Equation </b>
-
+l
 The measure of the extent of the relationship between two variables is shown by the correlation coefficient. The range of this coefficient lies betweene -1 to 1.
 
 A linear equation is written in the form of :
- $$E_0=mc^2$$.
+
+y = a + bx
+
 
 
 | 4 |   |   |   |   |
