@@ -16,7 +16,9 @@ The measure of the extent of the relationship between two variables is shown by 
 
 A linear equation is written in the form of :
 
-y = a + bx
+$y = a + bx$
+
+
 
 
 
