@@ -4,4 +4,6 @@ Linear regression strives to show the relationship between two variables by appl
 
 For example: the weight of the person is linearly related to his height. Hence this shows a linear relationship between the height and weight of a person
 
+$y = a + bx$
+
 [Untitled](https://www.notion.so/c37b18e21c4c4040b54513a3ae3b6c64)
