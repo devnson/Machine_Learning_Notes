@@ -11,13 +11,34 @@ use a scatter plot to imply the strength of the relationship between the variabl
 any increasing or decreasing pattern. For such cases, the LR is not beneficial to the given data.
 
 <b> Linear Regression Equation </b>
-l
+
 The measure of the extent of the relationship between two variables is shown by the correlation coefficient. The range of this coefficient lies betweene -1 to 1.
 
 A linear equation is written in the form of :
 
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-![formula](https://render.githubusercontent.com/render/math?math=y = mx + c)
+y = a+bx
+
+where, X is the independent variables and plotted along the x-axis
+       y is the dependent variables
+       The slope of the line is b, and a is the intercept. 
+      
+or, it can be written as:
+
+y = mx + c 
+
+y = ax + b
+
+
+## Linear Regression Formula
+
+Linear regression shows the linear relationship between two variables. The eqn of linear relationship is similar to slope formula.
+- y = a + bx or,
+- y = mx + c,
+- y = ax + b
+
+Here, 
+     
+    y=\alpha+ \beta x
 
 
 
