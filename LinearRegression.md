@@ -87,3 +87,9 @@ where, !b is constant
 
 ![Untitled picture3](https://user-images.githubusercontent.com/23405520/113540097-fd5d9d00-95fc-11eb-855d-6f850f6253aa.jpg)
 
+
+![image](https://user-images.githubusercontent.com/23405520/113540211-47468300-95fd-11eb-8046-e78d91f6a8ea.png)
+
+![image](https://user-images.githubusercontent.com/23405520/113540245-562d3580-95fd-11eb-93cc-7884b8fd6c26.png)
+
+
