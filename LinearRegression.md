@@ -78,17 +78,12 @@ where, !b is constant
        X is the independent variable.
        y hat is the predicted value.
 
-### Regression Coefficient
+## Example
 
-![BIO-311-Eq22](https://user-images.githubusercontent.com/23405520/113530864-c5e2f680-95e4-11eb-8c69-5f2ab98cb5ad.gif)
-
-xi and yi are observed datasets.
-x and y are mean.
+![Untitled picture](https://user-images.githubusercontent.com/23405520/113540111-02bae780-95fd-11eb-897e-2dca99b8206d.jpg)
 
 
+![Untitled picture2](https://user-images.githubusercontent.com/23405520/113540082-f6cf2580-95fc-11eb-85a7-249bfde4cae9.jpg)
 
-### R Squared Formula
-
-
-![Capture](https://user-images.githubusercontent.com/23405520/113534619-d9935a80-95ee-11eb-8e50-ed1c869d8dee.PNG)
+![Untitled picture3](https://user-images.githubusercontent.com/23405520/113540097-fd5d9d00-95fc-11eb-855d-6f850f6253aa.jpg)
 
