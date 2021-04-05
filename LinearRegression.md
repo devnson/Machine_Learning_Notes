@@ -1,3 +1,4 @@
+![how-to-create-a-simple-linear-regression-equation](https://user-images.githubusercontent.com/23405520/113529775-02f9b980-95e2-11eb-800f-ab4b096cedb5.png)
 # LinearRegression
 
 Linear regression strives to show the relationship between two variables by applying a linear equation to observed data. One variable is supposed to be an independent variable,
@@ -38,8 +39,8 @@ Linear regression shows the linear relationship between two variables. The eqn o
 
 Here, 
      
-    y=\alpha+ \beta x
 
+![how-to-create-a-simple-linear-regression-equation](https://user-images.githubusercontent.com/23405520/113529783-07be6d80-95e2-11eb-99cf-4bb9c89ea7cf.png)
 
 
 
