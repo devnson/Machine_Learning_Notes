@@ -160,13 +160,11 @@ Each predicted class probability is compared to the actual class desired output 
 - Learn the coefficients for a Logistic regression model using Stochastic Gradient Descent.
 - Make predictions using the Model
 
+<img src = "https://user-images.githubusercontent.com/23405520/113660928-bcc85700-96c2-11eb-9ea3-122f4c947c4b.jpg" width = "600" height = "600"/>
 
-![Logistic1](https://user-images.githubusercontent.com/23405520/113660928-bcc85700-96c2-11eb-9ea3-122f4c947c4b.jpg | width=100)
+<img src = "https://user-images.githubusercontent.com/23405520/113660935-c0f47480-96c2-11eb-8935-8090870347f1.jpg" width = "600" height = "600"/>
 
-![Logistic2](https://user-images.githubusercontent.com/23405520/113660935-c0f47480-96c2-11eb-8935-8090870347f1.jpg)
+<img src = "https://user-images.githubusercontent.com/23405520/113660946-c782ec00-96c2-11eb-8d58-bf40f619b32f.jpg" width = "600" height = "600"/>
 
-
-![Logistic3](https://user-images.githubusercontent.com/23405520/113660946-c782ec00-96c2-11eb-8d58-bf40f619b32f.jpg)
-
-![Logistic4](https://user-images.githubusercontent.com/23405520/113660961-cd78cd00-96c2-11eb-9ee4-256a67eb0ed5.jpg)
+<img src = "https://user-images.githubusercontent.com/23405520/113660961-cd78cd00-96c2-11eb-9ee4-256a67eb0ed5.jpg" width = "600" height = "600"/>
 
