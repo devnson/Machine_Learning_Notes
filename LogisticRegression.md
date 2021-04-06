@@ -161,7 +161,7 @@ Each predicted class probability is compared to the actual class desired output 
 - Make predictions using the Model
 
 
-![Logistic1](https://user-images.githubusercontent.com/23405520/113660928-bcc85700-96c2-11eb-9ea3-122f4c947c4b.jpg =250x250)
+![Logistic1](https://user-images.githubusercontent.com/23405520/113660928-bcc85700-96c2-11eb-9ea3-122f4c947c4b.jpg | width=100)
 
 ![Logistic2](https://user-images.githubusercontent.com/23405520/113660935-c0f47480-96c2-11eb-8935-8090870347f1.jpg)
 
