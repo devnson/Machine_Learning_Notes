@@ -1,0 +1,16 @@
+# K Nearest Neighbor
+
+![1](https://user-images.githubusercontent.com/23405520/113816346-5a3e8c00-9792-11eb-9393-c1b694095941.jpg)
+![2](https://user-images.githubusercontent.com/23405520/113816349-5c084f80-9792-11eb-810f-b39340dc308f.jpg)
+![3](https://user-images.githubusercontent.com/23405520/113816361-5f034000-9792-11eb-95a4-cb6206162d3b.jpg)
+![4](https://user-images.githubusercontent.com/23405520/113816369-632f5d80-9792-11eb-846b-3324deab1ab2.jpg)
+![5](https://user-images.githubusercontent.com/23405520/113816380-662a4e00-9792-11eb-940a-5679737b0929.jpg)
+![6](https://user-images.githubusercontent.com/23405520/113816390-67f41180-9792-11eb-8cef-6dc83da3dc61.jpg)
+![7](https://user-images.githubusercontent.com/23405520/113816396-6aef0200-9792-11eb-97d6-e4f723183761.jpg)
+![8](https://user-images.githubusercontent.com/23405520/113816410-6d515c00-9792-11eb-85d4-4a340db6be77.jpg)
+![9](https://user-images.githubusercontent.com/23405520/113816413-6e828900-9792-11eb-813f-b3e9bdf0f23d.jpg)
+![10](https://user-images.githubusercontent.com/23405520/113816417-704c4c80-9792-11eb-807a-bd3a5c24e639.jpg)
+![11](https://user-images.githubusercontent.com/23405520/113816421-717d7980-9792-11eb-9dfd-a1b8e37cbc74.jpg)
+![12](https://user-images.githubusercontent.com/23405520/113816427-73473d00-9792-11eb-8520-de5d6067830c.jpg)
+![13](https://user-images.githubusercontent.com/23405520/113816430-74786a00-9792-11eb-8fea-d7290e85c176.jpg)
+![14](https://user-images.githubusercontent.com/23405520/113816437-76422d80-9792-11eb-9cd4-2a95a6ae618c.jpg)
