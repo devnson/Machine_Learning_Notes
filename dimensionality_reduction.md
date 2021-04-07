@@ -1,0 +1,15 @@
+# Dimensionality Reduction
+
+![1](https://user-images.githubusercontent.com/23405520/113818652-b9ea6680-9795-11eb-8dd8-ac9b29667668.jpg)
+![2](https://user-images.githubusercontent.com/23405520/113818655-bc4cc080-9795-11eb-921e-6d2ac1c51cea.jpg)
+![3](https://user-images.githubusercontent.com/23405520/113818657-bd7ded80-9795-11eb-96f0-0aeeb8fcb73d.jpg)
+![4](https://user-images.githubusercontent.com/23405520/113818662-beaf1a80-9795-11eb-9d30-84bff2dfa669.jpg)
+![5](https://user-images.githubusercontent.com/23405520/113818668-bfe04780-9795-11eb-9cb6-76cdb54aafac.jpg)
+![6](https://user-images.githubusercontent.com/23405520/113818670-c1117480-9795-11eb-9dab-cb543e9e8b26.jpg)
+![7](https://user-images.githubusercontent.com/23405520/113818675-c242a180-9795-11eb-8890-8b6e1dc6d44e.jpg)
+![8](https://user-images.githubusercontent.com/23405520/113818680-c4a4fb80-9795-11eb-903e-a1a2932ffda6.jpg)
+![9](https://user-images.githubusercontent.com/23405520/113818685-c53d9200-9795-11eb-96ca-daa66d795998.jpg)
+![10](https://user-images.githubusercontent.com/23405520/113818687-c66ebf00-9795-11eb-8e21-8d3a0f55a496.jpg)
+![11](https://user-images.githubusercontent.com/23405520/113818692-c79fec00-9795-11eb-8451-b6cf37784a0c.jpg)
+![12](https://user-images.githubusercontent.com/23405520/113818698-ca024600-9795-11eb-96e6-87b5578b1010.jpg)
+![13](https://user-images.githubusercontent.com/23405520/113818701-cb337300-9795-11eb-9b2e-070db74078eb.jpg)
