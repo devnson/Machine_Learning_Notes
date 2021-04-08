@@ -123,7 +123,7 @@ Logit function is the algorithm of the odd ratio (log - odds). It takes the inpu
             Pi = B0 + B1 * (Pricei) + E
             
         So, 
-            Pi / (1 - Pi) = B0 + B1 * (Pricei) * E
+            Pi / (1 - Pi) = B0 + B1 * (Pricei) + E
         
         And finally with logit function,
         
@@ -132,7 +132,7 @@ Logit function is the algorithm of the odd ratio (log - odds). It takes the inpu
 
 <b> Problem Statement </b>
 
-Let's thre is a car and its price is $45,000 with an additional feature called a pink slip. Find the probability of sell for this car?
+Let's there is a car and its price is $45,000 with an additional feature called a pink slip. Find the probability of sell for this car?
 
 
 ### Logistic function or Sigmoid function
@@ -142,6 +142,75 @@ The inverse of the logit function is called the logistic function or Sigmoid fun
   The equation: 
           
 ![0_WEVwKfBLUPOKBQ7a](https://user-images.githubusercontent.com/23405520/113659801-71ad4480-96c0-11eb-8e90-a5c0cbf49bd7.gif)
+
+A function that models the exponential growth of a population but also considers factors like the carrying capacity of land and so on is called the logistic function. It should be remembered that the logistic function has an inflection point.
+
+<b> Logistic Function Equation </b>
+
+The standard logistic function is a logistic function with parameters k = 1, x0 = 0, L = 1.
+This reduces the logistic function as below:
+
+![image](https://user-images.githubusercontent.com/23405520/113957622-2f5d4200-983d-11eb-892c-e16e85476a31.png)
+
+<b> Logistic Function Examples </b>
+
+Spreading rumours and disease in a limited population and the growth of bacteria or human population when resources are limited.
+
+There are many applications where logistic function plays an important role. Some of them are as follows.
+
+Ecology: Modeling population growth, time-varying carrying capacity.
+
+Statistics and machine learning: logistic regression and neural networks
+
+Medicine: Modeling of growth of tumours
+
+Agriculture: Modeling crop response
+
+<b> Example problem 1: </b>
+
+How many years will it take for a bacteria population to reach 9000, if its growth is modelled by
+
+![image](https://user-images.githubusercontent.com/23405520/113957711-587dd280-983d-11eb-9f7c-7d1f99417e66.png)
+
+Solution:
+According to the given,
+
+![image](https://user-images.githubusercontent.com/23405520/113957743-6b90a280-983d-11eb-95e9-5e8b236d3bfb.png)
+
+Taking logarithm on both sides,
+
+-0.12(t-20)=ln(0.111)
+
+t = -ln(0.111)/0.12 + 20
+
+On simplifying,
+
+t=38.31 years
+
+The graph for the above solution is as below:
+
+![image](https://user-images.githubusercontent.com/23405520/113957769-7ba88200-983d-11eb-8baa-8391c0432a1f.png)
+
+
+
+### What is the difference between logistic and logit regression?
+
+The <b> logit </b> is a link function a transformer of a parameter. It is the logarithm of the odds. If we call the paramtere π , it is defined as follows:
+
+![image](https://user-images.githubusercontent.com/23405520/113957354-ad6d1900-983c-11eb-882d-33b4a0401a25.png)
+
+The <b> logistic function is the inverse of the logit. If we have a value, x the logistic is:
+        
+![image](https://user-images.githubusercontent.com/23405520/113957418-cd9cd800-983c-11eb-94cc-25b80510dbed.png)
+
+Thus (using matrix notation where X is an N * p matrix and β is a p * 1 vector), logit representation is:
+
+![image](https://user-images.githubusercontent.com/23405520/113957480-edcc9700-983c-11eb-8948-406374a8de7b.png)
+
+and logistic regression is:
+
+![image](https://user-images.githubusercontent.com/23405520/113957500-f8872c00-983c-11eb-8c3d-dde18bc99c7c.png)
+
            
 ### Cross entropy or Log loss
 
