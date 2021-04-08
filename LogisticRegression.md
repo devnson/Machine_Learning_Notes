@@ -238,3 +238,11 @@ Each predicted class probability is compared to the actual class desired output 
 
 <img src = "https://user-images.githubusercontent.com/23405520/113660961-cd78cd00-96c2-11eb-9ee4-256a67eb0ed5.jpg" width = "600" height = "600"/>
 
+
+## Code
+
+![image](https://user-images.githubusercontent.com/23405520/113968588-00e96200-9851-11eb-9c37-51b329089259.png)
+![image](https://user-images.githubusercontent.com/23405520/113968611-0cd52400-9851-11eb-85b8-c1fbe8806ca4.png)
+![image](https://user-images.githubusercontent.com/23405520/113968641-19597c80-9851-11eb-9535-7217c7898a60.png)
+
+
