@@ -78,9 +78,10 @@ Let's take the probability range between 0 and 1. Let's say:
 
 Odds are the ratio of the probability of success and the probability of not success.
 
-  Odds(success) = P / Q = 0.8 / 0.2  = 4
-  Odds(failure) = Q / P = 0.2 / 0.8 = 0.25
+  - Odds(success) = P / Q = 0.8 / 0.2  = 4
+  - Odds(failure) = Q / P = 0.2 / 0.8 = 0.25
   
+  Odds Ratio = Odds (success) / Odds (failure) = 4 / 0.25 = 16
   
 <b> Problem Statement </b> : Suppose that 7 out of 10 boys are admitted to Data Science while 3 of 10 girls are admitted. Find the probability of boys getting admitted to Data Science? 
 
