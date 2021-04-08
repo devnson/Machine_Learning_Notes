@@ -220,9 +220,9 @@ Each predicted class probability is compared to the actual class desired output 
 
 ` Cost = - ( Yactual ) * log( Y predicted) - ( 1 - Y actual ) * log ( 1 - Ypredicted) `
 
+![image](https://user-images.githubusercontent.com/23405520/113958979-a693d580-983f-11eb-862c-1a17270a0dba.png)
+![1_WI_I5ecz7PQjeE4FebLfDQ@2x](https://user-images.githubusercontent.com/23405520/113959283-32a5fd00-9840-11eb-92bf-5f6ba5127941.png)
 
-
-![1_wilGXrItaMAJmZNl6RJq9Q](https://user-images.githubusercontent.com/23405520/113660058-f1d3aa00-96c0-11eb-897f-dbd5c105913c.png)
 
 # Logistic Regression Steps
 
