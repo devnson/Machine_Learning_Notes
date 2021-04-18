@@ -19,7 +19,7 @@ You just evaluated a decision tree in your head:
 
 ![decision-tree](https://user-images.githubusercontent.com/23405520/113811519-f3b57000-9789-11eb-8601-b7f9fc7d37e2.png)
 
-That’s a simple decision tree with one decision node that tests x < 2x<2. If the test passes (x < 2x<2), we take the left branch and pick Blue. If the test fails (x \geq 2x≥2), we take the right branch and pick Green.
+That’s a simple decision tree with one decision node that tests x < 2 . If the test passes (x < 2), we take the left branch and pick Blue. If the test fails (x≥2), we take the right branch and pick Green.
 
 ![dataset-split](https://user-images.githubusercontent.com/23405520/113811538-016af580-978a-11eb-8d0d-b7e841fa3270.png)
 
@@ -49,7 +49,7 @@ Pretty simple, right? That’s the basic idea behind decision trees.
 
 <b>2. Training a Decision Tree </b>
 
-Our first task is to determine the root decision node in our tree. Which feature (xx or yy) will it test on, and what will the test threshold be? For example, the root node in our tree from earlier used the xx feature with a test threshold of 22:
+Our first task is to determine the root decision node in our tree. Which feature (x or y) will it test on, and what will the test threshold be? For example, the root node in our tree from earlier used the x feature with a test threshold of 2:
 
 ![decision-tree2-root](https://user-images.githubusercontent.com/23405520/113811775-71797b80-978a-11eb-8254-284219e713bf.png)
 
@@ -61,16 +61,16 @@ Back to the problem of determining our root decision node. Now that we have a wa
 
 Trying every split means trying
 
-- Every feature (xx or yy).
+- Every feature (x or y).
 - All “unique” thresholds. We only need to try thresholds that produce different splits.
 
-For example, here are the thresholds we might select if we wanted to use the xx coordinate:
+For example, here are the thresholds we might select if we wanted to use the x coordinate:
 
 
 ![dataset2-thresholds-x](https://user-images.githubusercontent.com/23405520/113811887-aede0900-978a-11eb-9ba5-903077e826b4.png)
 
 
-Let’s do an example Gini Gain calculation for the x = 0.4x=0.4 split.
+Let’s do an example Gini Gain calculation for the x = 0.4 split.
 
 ![image](https://user-images.githubusercontent.com/23405520/113811926-c1f0d900-978a-11eb-82e5-0910b134a67d.png)
 
@@ -93,7 +93,7 @@ We can calculate Gini Gain for every possible split in the same way:
 ![image](https://user-images.githubusercontent.com/23405520/113812031-f82e5880-978a-11eb-909a-32208f3bea89.png)
 
 
-After trying all thresholds for both x and y, we’ve found that the x=2 split has the highest Gini Gain, so we’ll make our root decision node use the xx feature with a threshold of 2. Here’s what we’ve got so far:
+After trying all thresholds for both x and y, we’ve found that the x=2 split has the highest Gini Gain, so we’ll make our root decision node use the x feature with a threshold of 2. Here’s what we’ve got so far:
 
 ![image](https://user-images.githubusercontent.com/23405520/113812082-11370980-978b-11eb-913b-f56389543f96.png)
 
